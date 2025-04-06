@@ -1,0 +1,300 @@
+Uri: https://astonishing-jelly-5b09f7.netlify.app/
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\index.htm
+Content Type: text/html
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/comments/feed/index-1.htm
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\comments\feed\index-1.htm
+Content Type: text/html
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/comments/feed/index.htm
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\comments\feed\index.htm
+Content Type: text/html
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Open+Sans%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Lora%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=6.7.1
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\css
+Content Type: text/plain
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/feed/index-1.htm
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\feed\index-1.htm
+Content Type: text/html
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/feed/index.htm
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\feed\index.htm
+Content Type: text/html
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/index.html
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\index.html
+Content Type: text/html
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.4.1
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-content\plugins\elementor-pro\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-content/plugins/elementor-pro/assets/css/widget-animated-headline.min.css
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-content\plugins\elementor-pro\assets\css\widget-animated-headline.min.css
+Content Type: text/css
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min.js
+Content Type: application/javascript
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.5.6
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.5.6
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.5.6
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.5.6
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.5.6
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.14.0
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: font/ttf
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: application/font-woff
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.min.css
+Content Type: text/css
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400-1.eot
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900-1.eot
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-content/plugins/wpforms-lite/assets/js/integrations/elementor/frontend.min.js?ver=1.7.2.1
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-content\plugins\wpforms-lite\assets\js\integrations\elementor\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-content/themes/twentytwentytwo/assets/fonts/SourceSerif4Variable-Italic.ttf.woff2
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-content\themes\twentytwentytwo\assets\fonts\SourceSerif4Variable-Italic.ttf.woff2
+Content Type: font/woff2
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-content/themes/twentytwentytwo/assets/fonts/SourceSerif4Variable-Roman.ttf.woff2
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-content\themes\twentytwentytwo\assets\fonts\SourceSerif4Variable-Roman.ttf.woff2
+Content Type: font/woff2
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-content/themes/twentytwentytwo/style.css?ver=1.1
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-content\themes\twentytwentytwo\style.css
+Content Type: text/css
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-content/uploads/2022/03/Foto-pro-site-2-1024x717.jpg
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-content\uploads\2022\03\Foto-pro-site-2-1024x717.jpg
+Content Type: image/jpeg
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-content/uploads/2022/03/Foto-pro-site-2-1536x1075.jpg
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-content\uploads\2022\03\Foto-pro-site-2-1536x1075.jpg
+Content Type: image/jpeg
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-content/uploads/2022/03/Foto-pro-site-2-300x210.jpg
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-content\uploads\2022\03\Foto-pro-site-2-300x210.jpg
+Content Type: image/jpeg
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-content/uploads/2022/03/Foto-pro-site-2-768x538.jpg
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-content\uploads\2022\03\Foto-pro-site-2-768x538.jpg
+Content Type: image/jpeg
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-content/uploads/2022/03/Foto-pro-site-2.jpg
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-content\uploads\2022\03\Foto-pro-site-2.jpg
+Content Type: image/jpeg
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-content/uploads/2022/03/Foto-pro-site-3-1024x732.png
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-content\uploads\2022\03\Foto-pro-site-3-1024x732.png
+Content Type: image/png
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-content/uploads/2022/03/Foto-pro-site-3-300x214.png
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-content\uploads\2022\03\Foto-pro-site-3-300x214.png
+Content Type: image/png
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-content/uploads/2022/03/Foto-pro-site-3-768x549.png
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-content\uploads\2022\03\Foto-pro-site-3-768x549.png
+Content Type: image/png
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-content/uploads/2022/03/Foto-pro-site-3.png
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-content\uploads\2022\03\Foto-pro-site-3.png
+Content Type: image/png
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-content/uploads/2022/03/Foto-pro-site-6-1024x557.jpg
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-content\uploads\2022\03\Foto-pro-site-6-1024x557.jpg
+Content Type: image/jpeg
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-content/uploads/2022/03/Foto-pro-site-6-1536x835.jpg
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-content\uploads\2022\03\Foto-pro-site-6-1536x835.jpg
+Content Type: image/jpeg
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-content/uploads/2022/03/Foto-pro-site-6-300x163.jpg
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-content\uploads\2022\03\Foto-pro-site-6-300x163.jpg
+Content Type: image/jpeg
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-content/uploads/2022/03/Foto-pro-site-6-768x418.jpg
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-content\uploads\2022\03\Foto-pro-site-6-768x418.jpg
+Content Type: image/jpeg
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-content/uploads/2022/03/Foto-pro-site-6.jpg
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-content\uploads\2022\03\Foto-pro-site-6.jpg
+Content Type: image/jpeg
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-content/uploads/2022/12/Costa-Brasil-logo.png
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-content\uploads\2022\12\Costa-Brasil-logo.png
+Content Type: image/png
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-content/uploads/elementor/css/post-6.css?ver=1647976785
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-content\uploads\elementor\css\post-6.css
+Content Type: text/css
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-content/uploads/elementor/css/post-8.css?ver=1724356320
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-content\uploads\elementor\css\post-8.css
+Content Type: text/css
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-includes/js/underscore.min.js?ver=1.13.7
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-includes\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-includes/js/wp-util.min.js?ver=6.7.1
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-includes\js\wp-util.min.js
+Content Type: application/javascript
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-json/index.htm
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-json\index.htm
+Content Type: text/html
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-json/oembed/1.0/embed-1?url=https%3A%2F%2Fbgmimports.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-json\oembed\1.0\embed-1
+Content Type: text/plain
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbgmimports.com%2F
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-json\oembed\1.0\embed
+Content Type: text/plain
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/wp-json/wp/v2/pages/8
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-json\wp\v2\pages\8
+Content Type: text/plain
+
+Uri: https://astonishing-jelly-5b09f7.netlify.app/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\xmlrpc.php
+Content Type: application/x-php
+
+Uri: https://bgmimports.com/comments/feed/
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\comments\feed\index-2.htm
+Content Type: application/rss+xml
+
+Uri: https://bgmimports.com/feed/
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\feed\index-2.htm
+Content Type: application/rss+xml
+
+Uri: https://bgmimports.com/wp-content/uploads/2022/03/Foto-pro-site-1.jpg
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-content\uploads\2022\03\Foto-pro-site-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bgmimports.com/wp-content/uploads/2022/03/Foto-pro-site-12.jpg
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-content\uploads\2022\03\Foto-pro-site-12.jpg
+Content Type: image/jpeg
+
+Uri: https://bgmimports.com/wp-content/uploads/2022/03/Foto-pro-site-8.jpg
+File Name: C:\Downloaded Web Sites\astonishing-jelly-5b09f7.netlify.app\wp-content\uploads\2022\03\Foto-pro-site-8.jpg
+Content Type: image/jpeg
+
